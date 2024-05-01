@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293291824693",
+    "project_id": "nus-chat-app",
+    "storage_bucket": "nus-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293291824693:android:65af99e2c0781af5a8437c",
+        "android_client_info": {
+          "package_name": "com.gabryel.fala_comigo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtnvC7zTMyDlW5NLA41NPDTUtMWfI8T5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
